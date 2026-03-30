@@ -1,4 +1,4 @@
-# Driver Drowsiness and Head Movement Detection System
+# Driver_Monitoring
 
 ## Project Overview
 This project is an **AI-based Driver Monitoring System** that detects **driver drowsiness and unsafe head movements** using a webcam.
